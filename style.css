@@ -71,7 +71,7 @@ html, body {
 }
 
 #elems {
-    /* background-color: red; */
+    
     height: 430px;
     display: flex;
     align-items: center;
